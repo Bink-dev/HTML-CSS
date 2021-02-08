@@ -84,3 +84,11 @@ nav a:hover::before {
 body {
     padding: 20px;
 }
+
+.alignleft {
+    float: left;
+}
+
+.alignright {
+    float: right;
+}
