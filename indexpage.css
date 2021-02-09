@@ -14,15 +14,18 @@ header::after {
 }
 
 body {
+
     background: yellow;
 }
 
 section {
     border: 1px black solid;
     background: green;
+    min-height: 600px;
 }
 
 footer {
+    clear: both;
     padding: 20px;
     background: black;
 }
@@ -87,8 +90,10 @@ body {
 
 .alignleft {
     float: left;
+
 }
 
 .alignright {
+
     float: right;
 }
