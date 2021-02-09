@@ -14,7 +14,6 @@ header::after {
 }
 
 body {
-
     background: yellow;
 }
 
@@ -90,10 +89,8 @@ body {
 
 .alignleft {
     float: left;
-
 }
 
 .alignright {
-
     float: right;
 }
