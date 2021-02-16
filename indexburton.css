@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial;
+    background-color: mistyrose;
+}
+
+header {
+    padding: 10px;
+}
+
+nav {
+    padding: 10px;
+    font-size: 22px;
+}
+
+.sectionLeft {
+    position: absolute;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.sectionRight {
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 960px;
+}
+
+.sectionLower {
+    position: absolute;
+    padding-top: 530px;
+    padding-left: 10px;
+}
+
+article {
+    display: inline-block;
+}
