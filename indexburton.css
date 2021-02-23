@@ -34,3 +34,45 @@ nav {
 article {
     display: inline-block;
 }
+
+form ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+form ul li {
+    padding: 10px;
+}
+
+form ul li input {
+    position: absolute;
+    left: 150px;
+}
+
+form ul li button {
+    position: absolute;
+    left: 150px;
+}
+
+form ul li select {
+    position: absolute;
+    left: 150px;
+}
+
+form ul li textarea {
+    position: absolute;
+    left: 150px;
+}
+
+form ul li checkbox {
+    position: absolute;
+    left: 150px;
+}
+
+.ul1 {
+    float: left;
+}
+
+.ul2 {
+    float: right;
+}
