@@ -2,8 +2,22 @@
 div#wrapper{
     margin: auto;
     width: 1000px;
+    background-color: rgb(250,241,234);
+    padding: 20px;
 }
 
 header {
-    background-color: paleturquoise;
+    background-color: rgb(193,240,223);
 }
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+nav {
+
+}
+
+nav a {}
