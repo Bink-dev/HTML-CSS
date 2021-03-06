@@ -3,6 +3,8 @@ body {
 
 }
 
+@media all and (min-width: 724px) {}
+
 header {
     background-color: paleturquoise;
 }
