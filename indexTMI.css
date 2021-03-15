@@ -6,6 +6,7 @@
 body {
     margin: 0px;
     padding: 0px;
+    background-color: skyblue;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -72,7 +73,6 @@ footer h3 {
 
     ul {
         background-color: rgb(128,128,128);
-        border-top: 1px solid white;
     }
 
     section#nieuws {
@@ -115,3 +115,4 @@ footer h3 {
         margin: auto;
     }
 }
+
